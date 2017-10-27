@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "967266763773",
+    "firebase_url": "https://occult-49a9d.firebaseio.com",
+    "project_id": "occult-49a9d",
+    "storage_bucket": "occult-49a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967266763773:android:75983e029f4d787a",
+        "android_client_info": {
+          "package_name": "in.creslainfotech.occult"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967266763773-vv3i7qt44r2uutkru39kbnkc91jsclte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyEGezObtpAF21fS5tE7LDhhSV8U9Ev2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
