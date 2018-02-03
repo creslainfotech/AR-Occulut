@@ -20,6 +20,10 @@ public class UIController : MonoBehaviour
     {
         SceneManager.LoadScene("ARcamScene");
     }
+    public void Loadclue()
+    {
+        SceneManager.LoadScene("clue");
+    }
 
     public void Quit()
 	{
